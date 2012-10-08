@@ -1,0 +1,22 @@
+# Linux
+
+Run the following commands to install
+
+cd src/
+qmake
+make
+cp somewhereinblog-desktop-notifier ../linux/
+cd ../linux
+sudo sh install.sh
+
+# Windows
+
+Open somewhereinblog-desktop-notifier.pro with Qt Creator or run qmake.
+Put the output exe with the following DLLs.
+
+libgcc_s_dw2-1.dll
+QtCore4.dll
+QtXml4.dll
+QtGui4.dll
+mingwm10.dll
+QtNetwork4.dll

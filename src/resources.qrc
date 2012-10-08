@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="trayAlert">images/notificationAlert.png</file>
+        <file alias="trayOffline">images/notificationOffline.png</file>
+        <file alias="trayOnline">images/notificationOnline.png</file>
+        <file alias="trayNormal">images/trayicon.png</file>
+        <file alias="trayNew">images/notificationNew.png</file>
+        <file alias="actionAbout">images/about.png</file>
+        <file alias="actionCheck">images/check.png</file>
+        <file alias="actionDisabled">images/disabled.png</file>
+        <file alias="actionEnabled">images/enabled.png</file>
+        <file alias="actionUnseenComments">images/links.png</file>
+        <file alias="actionNotifications">images/new.png</file>
+        <file alias="actionSettings">images/settings.png</file>
+        <file alias="settings">images/settings48.png</file>
+        <file alias="about">images/about48.png</file>
+        <file alias="quit">images/quit.png</file>
+        <file alias="appicon">images/appicon.png</file>
+        <file alias="actionSubscriptions">images/subscriptions.png</file>
+        <file alias="hide">images/hide.png</file>
+        <file alias="font">images/font.png</file>
+        <file alias="splash">images/splash.png</file>
+        <file alias="clear">images/clear.png</file>
+    </qresource>
+</RCC>

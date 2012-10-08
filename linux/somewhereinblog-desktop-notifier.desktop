@@ -1,0 +1,16 @@
+[Desktop Entry]
+Comment[en_US]=A Desktop Notifier for somewhereinblog
+Comment=A Desktop Notifier for somewhereinblog
+Encoding=UTF-8
+Exec=somewhereinblog-desktop-notifier
+GenericName[en_US]=
+GenericName=Desktop Notifier for somewhereinblog
+Icon=somewhereinblog-desktop-notifier
+MimeType=application/x-executable
+Name[en_US]=somewhereinblog Desktop Notifier
+Name=somewhereinblog Desktop Notifier
+StartupNotify=false
+Terminal=false
+Type=Application
+X-KDE-SubstituteUID=false
+Categories=Network;
